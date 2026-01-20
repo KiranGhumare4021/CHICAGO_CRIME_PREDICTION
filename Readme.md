@@ -117,14 +117,18 @@ jupyter notebook notebooks/week4.ipynb  # ML Models
 python visualization/dashboard.py
 
 👥 Team Contributions
-Neethu Sathravada (Me):
+Neethu Sathravada:
 
 Data preprocessing and cleaning (Week 1)
 PySpark ETL pipeline and feature engineering (Week 2)
 Geospatial analysis with H3 and DBSCAN (Week 3)
-Machine learning models (Random Forest, XGBoost) (Week 4)
 
-Kiran Ghumare: Interactive Plotly Dash dashboard
+Kiran Ghumare: 
+
+Machine learning models (Random Forest, XGBoost) (Week 4)
+Interactive Plotly Dash dashboard
+Code cleanup
+
 Sajitha Mathi: Project report and documentation
 
 🤖 AI-Assisted Development
@@ -148,8 +152,8 @@ Size: 8M+ records, updated daily
 Features: Date, crime type, location (lat/long), district, arrest status, domestic flag
 
 📧 Contact
-Neethu Sathravada
+Kiran Ghumare
 MS Computer Engineering | NYU Tandon School of Engineering
-📧 ns6411@nyu.edu
+📧 kg4021@nyu.edu
 💼 LinkedIn
 💻 GitHub
